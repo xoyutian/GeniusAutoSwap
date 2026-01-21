@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         TradeGenius Auto Swap - BNB USDC/USDT
+// @name         TradeGenius Auto Swap - BNB KOGE/USDT
 // @namespace    https://www.tradegenius.com
 // @version      1.0.0
 // @description  Automated USDC/USDT swap on BNB chain with P3 pool
-// @author       @ferdie_jhovie
+// @author       https://x.com/DaQiang8888
 // @match        https://www.tradegenius.com/trade
 // @grant        none
 // @run-at       document-idle
