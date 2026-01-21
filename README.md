@@ -15,4 +15,4 @@ BNB链上的USDT ⇄ KOGE 的互换
 
 基础教程 https://www.youtube.com/watch?v=oBgQgSSA7AA
 
-钱包里只放USDT或KOGE代币，再加少量bnb
+钱包里只放USDT或KOGE代币，再加少量bnb，必须将KOGE代币添加到收藏
